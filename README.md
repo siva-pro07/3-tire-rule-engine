@@ -47,9 +47,10 @@ Ensure that you have both Docker and Docker Compose installed:
 **1.Clone the repository:**
 
 ```bash
-git clone [https://github.com/yourusername/rule-engine.git](https://github.com/yourusername/rule-engine.git)
+git clone [https://github.com/siva-pro07/3-tire-rule-engine.git](https://github.com/siva-pro07/3-tire-rule-engine.git)
 cd rule-engine
 ```
+
 **2.Set up the environment using Docker Compose:**
 
 We have a docker-compose.yml that will spin up both the Flask backend and the PostgreSQL database.
